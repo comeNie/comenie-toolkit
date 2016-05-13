@@ -13,6 +13,7 @@
         <module>mybatis-learn</module>
         <module>springmvc-learn</module>
         <module>leecode-learn</module>
+        <module>metaq-learn</module>
     </modules>
 
 
