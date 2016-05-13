@@ -12,6 +12,7 @@
         <module>design-pattern-other</module>
         <module>design-pattern-structure</module>
         <module>design-pattern-behavioral</module>
+        <module>design-pattern-creational</module>
     </modules>
     <dependencies>
         <dependency>
