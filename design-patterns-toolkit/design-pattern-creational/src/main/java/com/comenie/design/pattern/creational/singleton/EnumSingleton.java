@@ -6,7 +6,7 @@ package com.comenie.design.pattern.creational.singleton;
 public enum EnumSingleton {
     INSTANCE;
 
-    public  static void doSomething(){
+    public  static void getInstance(){
 
     }
 }

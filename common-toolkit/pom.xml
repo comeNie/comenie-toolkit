@@ -17,6 +17,7 @@
         <org.apache.commons.commons-lang3.version>3.1</org.apache.commons.commons-lang3.version>
         <servlet.version>3.1.0</servlet.version>
         <org.springframework.version>4.0.5.RELEASE</org.springframework.version>
+        <org.csource.fastdfs.version>5</org.csource.fastdfs.version>
     </properties>
 
     <build>
